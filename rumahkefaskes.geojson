@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rumah"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.40205421805507,
+            -7.843548082074051
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rumah Sakit"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37816554160241,
+            -7.82593506268168
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rute"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [110.40205421805507, -7.843548082074051],
+            [110.37816554160241, -7.82593506268168]
+          ]
+        }
+      }
+    ]
+  }
+  
